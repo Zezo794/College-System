@@ -1,0 +1,9 @@
+sp,cis,3,200,intro:
+intro,g1,3,500,:
+phy1,g2,3,500,:
+logic,g3,3,500,phy1:
+english1,g4,3,500,:
+english2,g5,3,500,english1:
+report,g6,2,500,:
+prob,g7,3,500,:
+stat,g8,3,500,prob:

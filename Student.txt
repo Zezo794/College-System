@@ -1,0 +1,7 @@
+ahmed,2020170057,1,2,sp:phy1:,stat/english2/
+azazi,202000483,2,2,english1:intro:,sp/stat/
+salma,2020170349,5,2,intro:english1:,sp/english2/
+mariam,2020170806,4,2,intro:phy1:,stat/sp/
+sakr,2020170001,6,2,intro:prob:,stat/report/
+zezo,2020170457,7,2,english1:intro:,stat/sp/
+ibrahem,20201701,10,2,sp:english2:,intro/english1/
